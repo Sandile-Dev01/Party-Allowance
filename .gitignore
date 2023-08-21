@@ -4,6 +4,7 @@
 # Ignore build output directories
 bin/
 out/
+out/
 
 # Ignore IntelliJ IDEA files
 .idea/
