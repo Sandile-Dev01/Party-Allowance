@@ -2,7 +2,6 @@
 
 The Party Allowance App is a simple Java Swing application that helps determine whether a person is eligible to attend a party based on their age.
 
-![App Screenshot](screenshot.png)
 
 ## Table of Contents
 
@@ -31,9 +30,9 @@ The Party Allowance App is a simple Java Swing application that helps determine 
 
 1. Clone the repository using Git:
    ```sh
-   git clone https://github.com/your-username/party-allowance-app.git
+   git clone https://github.com/Sandile-Dev01/Party-Allowance.git
    ```
-   Or [download the ZIP](https://github.com/your-username/party-allowance-app/archive/main.zip) and extract it.
+   Or [download the ZIP](https://github.com/Sandile-Dev01/Party-Allowance.git/archive/main.zip) and extract it.
 
 2. Compile the application:
    ```sh
